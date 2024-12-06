@@ -1,0 +1,736 @@
+@media (max-width: 1600px) {
+
+    h1 {
+        font-size: 65px;
+    }
+
+    h2 {
+        font-size: 55px;
+    }
+
+    h6 {
+        font-size: 26px;
+        line-height: 38px;
+    }
+
+    .icon {
+        font-size: 40px;
+    }
+
+    h4 {
+        font-size: 32px;
+    }
+
+}
+
+@media (max-width: 1440px) {
+    .nav-link {
+        font-size: 20px;
+    }
+
+    .logo {
+        width: 150px;
+    }
+
+    h1 {
+        font-size: 60px;
+    }
+
+    h2 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 38px;
+    }
+
+    h6 {
+        font-size: 23px;
+    }
+
+    h4 {
+        font-size: 30px;
+    }
+
+    .icon {
+        font-size: 35px;
+    }
+
+    .theme-btn {
+        font-size: 28px;
+    }
+
+    .package-content ul li::before {
+        font-size: 22px;
+    }
+
+    .package-content ul li {
+        font-size: 22px;
+    }
+
+    .trending h6 {
+        font-size: 26px;
+    }
+
+    .custom-swiper-button-prev {
+        left: -40px;
+    }
+
+    .custom-swiper-button-next {
+        right: -40px;
+    }
+
+    .custom-swiper-button {
+        font-size: 20px;
+        width: 45px;
+        height: 45px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .nav-link {
+        font-size: 16px;
+    }
+
+    h1 {
+        font-size: 46px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    h3 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h6 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    h4 {
+        font-size: 26px;
+    }
+
+    .icon {
+        font-size: 30px;
+    }
+
+    .title-icon {
+        font-size: 50px;
+    }
+
+    .theme-btn {
+        font-size: 24px;
+        padding: 8px 20px;
+    }
+
+    .package-content ul li::before {
+        font-size: 20px;
+    }
+
+    .package-content ul li {
+        font-size: 20px;
+    }
+
+    .custom-swiper-button {
+        width: 35px;
+        height: 35px;
+    }
+
+    #confirmModal .modal-content {
+        padding: 40px;
+        padding-top: 60px;
+    }
+
+    .modal-body .theme-btn {
+        font-size: 26px;
+        padding: 10px 25px;
+    }
+
+    .modal-content h2 {
+        font-size: 50px;
+    }
+
+    .modal-content h6 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .btn-box .nav-link {
+        padding: 8px 15px;
+    }
+
+    h2 {
+        padding-bottom: 20px;
+    }
+
+    .icon {
+        font-size: 26px;
+    }
+
+    h4 {
+        font-size: 24px;
+    }
+
+    .title-icon {
+        font-size: 48px;
+    }
+
+    .theme-btn {
+        font-size: 22px;
+        padding: 6px 15px;
+    }
+
+    .theme-btn i {
+        font-size: 22px;
+    }
+
+    .destinations h2 {
+        font-size: 35px;
+    }
+
+    .trending h4 {
+        font-size: 32px;
+    }
+
+    .banner-box {
+        height: 60vh;
+    }
+
+    #confirmModal .modal-content {
+        padding: 40px 0;
+        padding-top: 60px;
+    }
+}
+
+
+@media (max-width: 991px) {
+    .container {
+        max-width: 95%;
+    }
+
+    .logo {
+        width: 120px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    .btn-none {
+        display: block;
+    }
+
+    .btn-display {
+        display: none;
+    }
+
+    .nav-item .search {
+        margin-bottom: 10px;
+    }
+
+    .navbar-toggler {
+        order: 1;
+    }
+
+    .dropdown-menu {
+        --bs-dropdown-font-size: 1rem;
+    }
+
+    .navbar-toggler-icon {
+        width: 1.3rem;
+        height: 1.3rem;
+        vertical-align: baseline;
+    }
+
+    .navbar-toggler {
+        line-height: 0;
+        padding: 5px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    h6 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .title-icon {
+        font-size: 40px;
+    }
+
+    .theme-btn i {
+        font-size: 20px;
+    }
+
+    .theme-btn {
+        font-size: 20px;
+    }
+
+    .package-content ul li::before {
+        font-size: 18px;
+    }
+
+    .package-content ul li {
+        font-size: 18px;
+    }
+
+    .iconGroup .details span {
+        font-size: 16px;
+    }
+
+    .iconGroup .icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .iconGroup .icon i {
+        font-size: 16px;
+    }
+
+    .inputGroup label {
+        font-size: 16px;
+    }
+
+    .package-list h6 {
+        margin: 0 15px;
+    }
+
+    .trending ul {
+        padding: 0;
+    }
+
+    .gap2 {
+        gap: 25px;
+    }
+
+    .modal-content h2 {
+        font-size: 40px;
+    }
+
+    .modal-content h6 {
+        font-size: 22px;
+    }
+
+    .modal-body .theme-btn {
+        font-size: 22px;
+        padding: 8px 20px;
+    }
+}
+
+@media (min-width: 992px) {
+    .btn-none {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 30px;
+        padding-bottom: 5px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    h2 {
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
+
+    h6 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    h4 {
+        font-size: 22px;
+    }
+
+    .icon {
+        font-size: 22px;
+    }
+
+    .title-icon {
+        font-size: 35px;
+        padding-right: 10px;
+    }
+
+    .theme-btn {
+        font-size: 18px;
+        padding: 5px 10px;
+        border-radius: 10px;
+    }
+
+    .theme-btn i {
+        font-size: 18px;
+    }
+
+    .package-content ul li::before {
+        font-size: 16px;
+    }
+
+    .package-content ul li {
+        font-size: 16px;
+    }
+
+    .rating i {
+        font-size: 28px;
+    }
+
+    .iconGroup .details span {
+        font-size: 14px;
+    }
+
+    .inputGroup label {
+        font-size: 14px;
+    }
+
+    .messageForm input,
+    .messageForm textarea {
+        font-size: 16px;
+    }
+
+    .destinations h2 {
+        font-size: 26px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .trending ul li {
+        font-size: 14px;
+    }
+
+    .trending h6 {
+        font-size: 16px;
+    }
+
+    .trending h4 {
+        font-size: 18px;
+    }
+
+    .trending ul li::before {
+        font-size: 14px;
+    }
+
+    .custom-swiper-button {
+        font-size: 14px;
+        width: 25px;
+        height: 25px;
+    }
+
+    .custom-swiper-button-prev {
+        left: -20px;
+    }
+
+    .custom-swiper-button-next {
+        right: -20px;
+    }
+
+    .timeline-items::before {
+        left: 7px;
+    }
+
+    .timeline-item:nth-child(odd) {
+        padding-right: 0;
+        text-align: left;
+    }
+
+    .timeline-item:nth-child(odd),
+    .timeline-item:nth-child(even) {
+        padding-left: 37px;
+    }
+
+    .timeline-dot {
+        left: 0;
+    }
+}
+
+@media (max-width: 568px) {
+    .logo {
+        width: 115px;
+    }
+
+    section:not(:first-child) {
+        padding-top: 50px;
+    }
+
+
+    .title-icon {
+        font-size: 30px;
+    }
+
+    .box-border {
+        top: 20px;
+    }
+
+    .theme-btn i {
+        font-size: 16px;
+    }
+
+    .mySwiper2 {
+        width: 55%;
+    }
+
+    .rating i {
+        font-size: 24px;
+    }
+
+    .iconGroup .icon {
+        width: 38px;
+        height: 38px;
+    }
+
+    .socialMedia a {
+        width: 33px;
+        height: 33px;
+    }
+
+    .socialMedia a i {
+        font-size: 16px;
+    }
+
+    .messageForm input,
+    .messageForm textarea {
+        font-size: 14px;
+    }
+
+    .package-list h6 {
+        text-align: center;
+    }
+
+    .modal-header img {
+        width: 28%;
+    }
+
+    .loginModal .modal-content {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 425px) {
+    h1 {
+        font-size: 22px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    h6 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    .banner-box {
+        height: 40vh;
+    }
+
+    .title-icon {
+        font-size: 26px;
+        padding-right: 5px;
+    }
+
+    .gallery_img,
+    .item {
+        border-radius: 10px;
+    }
+
+    .gallery {
+        grid-gap: 8px;
+    }
+
+    .theme-btn {
+        font-size: 14px;
+    }
+
+    .theme-btn i {
+        font-size: 14px;
+    }
+
+    .package-content ul li::before {
+        font-size: 14px;
+    }
+
+    .package-content ul li {
+        font-size: 14px;
+    }
+
+    .iconGroup .details span {
+        font-size: 12px;
+    }
+
+    .iconGroup .icon {
+        width: 35px;
+        height: 35px;
+    }
+
+    .iconGroup .icon i {
+        font-size: 14px;
+    }
+
+    .socialMedia a i {
+        font-size: 12px;
+        line-height: 28px;
+    }
+
+    .socialMedia a {
+        width: 28px;
+        height: 28px;
+    }
+
+    .inputGroup label {
+        font-size: 12px;
+    }
+
+    .messageForm input,
+    .messageForm textarea {
+        font-size: 12px;
+    }
+
+    .contactInfo .iconGroup {
+        margin: 18px 0px;
+    }
+
+    .package-list h6 {
+        margin: 0 10px;
+    }
+
+    #confirmModal .modal-content {
+        padding: 30px 0;
+        padding-top: 40px;
+    }
+
+    .modal-header img {
+        top: -50px;
+    }
+
+    .modal-content h2 {
+        font-size: 30px;
+    }
+
+    .modal-content h6 {
+        font-size: 18px;
+    }
+
+    .modal-body .theme-btn {
+        font-size: 18px;
+        padding: 10px 25px;
+    }
+    .label {
+        top: 8px;
+    }
+    .inputField {
+        height: 40px;
+    }
+    .loginHeader span {
+        font-size: 22px;
+    }
+    .loginHeader {
+        width: 180px;
+        height: 50px;
+    }
+    .loginBox {
+        padding: 75px 35px 35px 35px;
+    }
+}
+
+@media (max-width: 375px) {
+    .logo {
+        width: 110px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h6 {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .item {
+        margin-bottom: 10px;
+    }
+
+    .gallery {
+        display: block;
+    }
+
+    .title-icon {
+        font-size: 24px;
+    }
+
+    .package-content ul li::before {
+        font-size: 12px;
+    }
+
+    .package-content ul li {
+        font-size: 12px;
+    }
+
+    .mySwiper2 {
+        width: 65%;
+    }
+
+    #confirmModal .modal-content {
+        padding: 20px 0;
+        padding-top: 30px;
+    }
+
+    .modal-header img {
+        top: -45px;
+    }
+}
+
+@media(max-width: 320px) {
+    .mySwiper2 {
+        width: 80%;
+    }
+
+    .modal-header img {
+        top: -40px;
+    }
+
+    #confirmModal .modal-content {
+        padding: 15px;
+        border-radius: 20px;
+        padding-top: 25px;
+    }
+    
+    .forgot {
+        display: block;
+    }
+}
