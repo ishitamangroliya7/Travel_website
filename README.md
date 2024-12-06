@@ -1,5 +1,5 @@
 
-This multi-page travel website is a dynamic and visually engaging platform designed with a seamless user experience in mind. 
+This is multi-page travel website. 
 The website incorporates AOS (Animate On Scroll) animations to create captivating visual effects as users navigate through the pages, enhancing interactivity and engagement.
 
 Key features include:
