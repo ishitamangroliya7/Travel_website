@@ -1,5 +1,4 @@
-
-This is multi-page travel website. 
+This code is an HTML file that integrates PHP includes to manage reusable components such as stylesheets, scripts, and contact sections. It creates a responsive multi-page travel website. 
 The website incorporates AOS (Animate On Scroll) animations to create captivating visual effects as users navigate through the pages, enhancing interactivity and engagement.
 
 Key features include:
